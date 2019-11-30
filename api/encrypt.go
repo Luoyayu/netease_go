@@ -12,7 +12,7 @@ import (
 // data 待加密文本
 
 const (
-	magicKey  = "e82ckenh8dichen8"
+	magicKey = "e82ckenh8dichen8"
 )
 
 type EncryptData struct {
